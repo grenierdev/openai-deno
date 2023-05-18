@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"lib": [
+			"deno.ns",
+			"deno.unstable",
+			"deno.window",
+			"deno.url",
+			"deno.web"
+		]
+	},
+	"fmt": {
+		"exclude": [".deno"],
+		"useTabs": true,
+		"semiColons": true
+	}
+}

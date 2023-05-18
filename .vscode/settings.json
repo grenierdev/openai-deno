@@ -1,0 +1,10 @@
+{
+	"deno.enable": true,
+	"deno.lint": true,
+	"deno.cache": ".deno",
+	"deno.config": "./deno.json",
+	"deno.unstable": true,
+	"deno.codeLens.referencesAllFunctions": true,
+	"deno.codeLens.references": true,
+	"deno.codeLens.implementations": true
+}
